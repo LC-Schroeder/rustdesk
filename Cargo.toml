@@ -1,10 +1,10 @@
 [package]
-name = "rustdesk"
+name = "Fernwartung"
 version = "1.2.0"
-authors = ["rustdesk <info@rustdesk.com>"]
-edition = "2021"
+authors = ["CISUG <info@CIS-UG.de>"]
+edition = "2023"
 build= "build.rs"
-description = "A remote control software."
+description = "Eine Fernwartungssoftware"
 default-run = "rustdesk"
 
 [lib]
